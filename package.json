@@ -1,0 +1,19 @@
+{
+  "name": "cybase",
+  "version": "1.0.0",
+  "description": "Base para projeto cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CristianoGaspar/CypressBaseRepo.git"
+  },
+  "author": "cristiano.gaspar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CristianoGaspar/CypressBaseRepo/issues"
+  },
+  "homepage": "https://github.com/CristianoGaspar/CypressBaseRepo#readme"
+}
