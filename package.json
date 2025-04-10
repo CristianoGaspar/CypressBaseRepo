@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/CristianoGaspar/CypressBaseRepo/issues"
   },
-  "homepage": "https://github.com/CristianoGaspar/CypressBaseRepo#readme"
+  "homepage": "https://github.com/CristianoGaspar/CypressBaseRepo#readme",
+  "devDependencies": {
+    "cypress": "^14.3.0",
+    "mocha": "^11.1.0"
+  }
 }
